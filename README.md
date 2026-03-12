@@ -61,7 +61,6 @@ The workflow produces:
 ## Repository structure
 
 ```text
-.
 ├── mtdna_mtnanoluc_sfgfp_programmability.py
 ├── mtdna_mtnanoluc_sfgfp_programmability_notebook.ipynb
 ├── simulated_mtdna_mtnanoluc_sfgfp_dataset.csv
@@ -199,18 +198,9 @@ This is a **synthetic, mechanistically informed simulator**. It does not prove t
 If you use this repository, please cite it as:
 
 ```text
-Petalcorin, M. I. R. mtDNA Dual-Reporter Programmability Simulator. GitHub repository.
+Petalcorin, M. I. R.(2026). mtDNA Dual-Reporter Programmability Simulator. GitHub repository. https://github.com/mpetalcorin/mtDNA-Dual-Reporter-Programmability-Simulator
 ```
 
 ## License
-
-Add your preferred license here, for example:
-
 - MIT License
-- Apache 2.0
-- BSD 3-Clause
 
-## Contact
-
-**Mark I.R. Petalcorin**  
-Add email, ORCID, GitHub, or institutional affiliation here.
