@@ -188,13 +188,7 @@ These datasets should not be used as:
 5. Strong classification performance on synthetic labels does not guarantee external validity.
 
 ## Distribution and licensing
-
-Add the chosen repository license here.
-
-Examples:
 - MIT
-- Apache 2.0
-- BSD 3-Clause
 
 ## Maintenance
 
@@ -206,7 +200,7 @@ The datasheet should be updated whenever:
 - new outputs are introduced
 - real experimental data are integrated
 
-## Contact
+## Citation
 
-**Mark I.R. Petalcorin**  
-Add contact details here.
+**Mark I.R. Petalcorin**(2026). mtDNA Dual-Reporter Programmability Simulator. GitHub Repository. https://github.com/mpetalcorin/mtDNA-Dual-Reporter-Programmability-Simulator
+
