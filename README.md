@@ -197,9 +197,7 @@ This is a **synthetic, mechanistically informed simulator**. It does not prove t
 
 If you use this repository, please cite it as:
 
-```text
-Petalcorin, M. I. R.(2026). mtDNA Dual-Reporter Programmability Simulator. GitHub repository. https://github.com/mpetalcorin/mtDNA-Dual-Reporter-Programmability-Simulator
-```
+**Petalcorin, M. I. R.**(2026). mtDNA Dual-Reporter Programmability Simulator. GitHub repository. https://github.com/mpetalcorin/mtDNA-Dual-Reporter-Programmability-Simulator
 
 ## License
 - MIT License
