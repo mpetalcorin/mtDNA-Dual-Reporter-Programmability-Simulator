@@ -217,7 +217,7 @@ This model card should be updated when:
 - experimental data are incorporated
 - evaluation strategy is changed
 
-## Contact
+## Citation
 
-**Mark I.R. Petalcorin**  
-Add preferred contact information here.
+**Mark I.R. Petalcorin**(2026). mtDNA Dual-Reporter Programmability Simulator. GitHub Repository. https://github.com/mpetalcorin/mtDNA-Dual-Reporter-Programmability-Simulator
+
